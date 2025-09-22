@@ -4,9 +4,9 @@ spring:
   application:
     name: Combine-Services
   datasource:
-    url: jdbc:postgresql://dpg-cuhn2jrtq21c73bclu10-a.oregon-postgres.render.com:5432/ppspr
-    username: ppspr_user
-    password: Ksvghyw9KJTJGP44qfJAc7IVSOWpETQX
+    url: jdbc:postgresql://dpg-d374o8ruibrs738njin0-a.oregon-postgres.render.com:5432/customers_1zjj
+    username: customers_1zjj_user
+    password: 9ZPK9keHllEZ31zCAv6lFkV1POZ87Td0
     driver-class-name: org.postgresql.Driver
   jpa:
     show-sql: true
